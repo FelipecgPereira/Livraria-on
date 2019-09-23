@@ -1,0 +1,4 @@
+import React from "react";
+import "./styles.css";
+const Header = () => <header id="main-header">Livraria On</header>;
+export default Header;
